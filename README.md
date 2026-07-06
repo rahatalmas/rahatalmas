@@ -34,7 +34,8 @@
 
 ###
 
-<p align="left">- 🔭 I’m an aspiring software engineer<br>- 📚 I'm currently working with python</p>
+<p align="left">- 🔭 Working as software engineer AI </p>
+<p align="left">- 🔭 Researh on llm and Self evolving Autonomous Agents </p>
 
 ###
 
